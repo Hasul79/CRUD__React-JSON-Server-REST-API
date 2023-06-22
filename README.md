@@ -19,3 +19,6 @@ json-server --watch db.json --port 8000
 ### Validation 
 
 ![Screenshot_4](https://user-images.githubusercontent.com/95657084/218780925-660deb6e-d524-42b8-aa19-b3d5d6754afa.png)
+
+
+# author: Hasmik Minasyan
